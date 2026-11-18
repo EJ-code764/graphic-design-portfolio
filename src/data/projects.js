@@ -38,7 +38,7 @@ export const projects = [
     id: 'coffee-campaign', title: 'Coffee House Campaign', category: 'Social Media', year: '2026',
     summary: 'A cohesive promotional set for a coffee brand.',
     cover: '/projects/coffee1.png',
-    images: ['/projects/coffee1.png', '/projects/matcha1.png'],
+    images: ['/projects/coffee1.png', '/projects/coffee2.png', '/projects/matcha1.png'],
     featured: true, demo: true,
     // Optional before-and-after image pair. Omit or set to null if not needed.
     beforeAfter: null,
